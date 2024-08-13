@@ -79,7 +79,7 @@
   .jd-thing__title__spacer .jd-form-set {
     @apply flex-1;
   }
-  :global(.jd-thing__title .jd-form-set button[type="submit"]) {
+  :global(.jd-thing__title) .jd-form-set button[type="submit"] {
     @apply text-sm;
   }
 </style>

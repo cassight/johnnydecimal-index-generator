@@ -113,7 +113,7 @@
   .jd-category__title__spacer .jd-form-set {
     @apply flex-1;
   }
-  :global(.jd-category__title .jd-form-set button[type="submit"]) {
+  :global(.jd-category__title) .jd-form-set button[type="submit"] {
     @apply text-sm;
   }
 </style>
